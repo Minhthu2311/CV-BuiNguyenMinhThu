@@ -39,7 +39,7 @@ header {
 h1 {
     margin: 0;
     font-size: 2.5em;
-    color: #007BFF;
+    color: #12fb6b;
 }
 
 h2 {
@@ -51,7 +51,7 @@ h2 {
 .project {
     margin-bottom: 20px;
     padding: 10px;
-    border: 1px solid #007BFF;
+    border: 1px solid #fcf808;
     border-radius: 5px;
     background-color: #f0f8ff;
 }
